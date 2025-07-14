@@ -34,3 +34,33 @@ javac *.java
 
 # Run the game
 java Main
+📁 Project Structure
+java-lottery-card-game/
+├── Main.java          # Main game logic and user interface
+├── Stack.java         # Custom Stack implementation
+├── Queue.java         # Custom Queue implementation
+└── README.md          # Project documentation
+🛠️ Technologies Used
+
+Language: Java
+Data Structures: Custom Stack and Queue implementations
+I/O: File reading/writing for high score table
+Concepts: OOP, Random algorithms, Game logic
+
+🎯 Learning Objectives
+This project demonstrates:
+
+Custom data structure implementation
+Stack and Queue operations
+File I/O operations
+Game development logic
+Object-oriented programming principles
+
+👨‍💻 Author
+İrem TEKİN
+Computer Engineering Student - Dokuz Eylül University
+📧 [iremtekin1107@gmail.com]
+🔗 [https://www.linkedin.com/in/irem-tekin11/]
+This project was created for educational purposes as part of CME1212 Algorithms and Programming II course.
+
+⭐ Don't forget to star this repository if you found it helpful!
